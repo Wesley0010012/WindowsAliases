@@ -1,0 +1,3 @@
+ls=dir /ONE $*
+cd=cd /d $*
+clear=cls
